@@ -56,7 +56,7 @@ pip install -r requirements.txt
 Google Colab
 Run the analysis from the provided .ipynb notebook
 
-##**📌 Results & Insights**
+**📌 Results & Insights**
 Higher **cholesterol** and **resting blood pressure** show increased risk correlation.
 
 **Age** groups 40–60 are most affected.
