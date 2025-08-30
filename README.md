@@ -45,8 +45,8 @@ Some insights generated in this project:
 ## 📂 Repository Structure
 ## 🚀 How to Run
 1. Clone this repository  
-   git clone https://github.com/yourusername/heart-disease-eda.git
-   cd heart-disease-eda
+ https://github.com/Shivendra-S-Patil/Heart-Disease-Risk-Analysis-/tree/main
+
 2. Install dependencies
 
 pip install -r requirements.txt
